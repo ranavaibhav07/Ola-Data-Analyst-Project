@@ -1,4 +1,4 @@
-          ![image](https://github.com/user-attachments/assets/8605f7ee-bd02-4be8-9f54-5a12d55b842c)
+![image](https://github.com/user-attachments/assets/8605f7ee-bd02-4be8-9f54-5a12d55b842c)
 
 
 SQL for Data Extraction & Preparation: We begin by teaching you how to use SQL to query large datasets, clean and prepare data efficiently, and handle complex data structures. You’ll learn practical techniques to solve real-life data challenges and gain confidence in working with relational databases.
